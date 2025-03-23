@@ -1,0 +1,55 @@
+Participant	ExperimentPhase	Category	Hemisphere	Area	ROISize	Beta
+sub-1023	localiser	face	Left	Ant Hipp Head	73	3.01830012328767
+sub-1023	localiser	face	Left	CA1	102	-3.13966691176471
+sub-1023	localiser	face	Left	CA23DG	206	0.190167281553398
+sub-1023	localiser	face	Left	Hipp Tail	110	-0.170826672727273
+sub-1023	localiser	face	Left	PHC	474	-1.4044224978903
+sub-1023	localiser	face	Left	PRC	873	2.13055653608247
+sub-1023	localiser	face	Left	Sub	112	-0.916016571428572
+sub-1023	localiser	face	Left	alERC	134	1.1638916119403
+sub-1023	localiser	face	Left	pmERC	78	2.80996352564103
+sub-1023	localiser	face	Right	Ant Hipp Head	73	-2.18513550684932
+sub-1023	localiser	face	Right	CA1	129	-1.33566743410853
+sub-1023	localiser	face	Right	CA23DG	243	2.08773949382716
+sub-1023	localiser	face	Right	Hipp Tail	88	-1.51506585227273
+sub-1023	localiser	face	Right	PHC	462	-1.96140052597403
+sub-1023	localiser	face	Right	PRC	954	1.85126349895178
+sub-1023	localiser	face	Right	Sub	117	-3.42902655555556
+sub-1023	localiser	face	Right	alERC	158	-0.585568012658228
+sub-1023	localiser	face	Right	pmERC	91	-0.696709923076923
+sub-1023	localiser	obj	Left	Ant Hipp Head	73	2.35402824657534
+sub-1023	localiser	obj	Left	CA1	102	-2.95179690196078
+sub-1023	localiser	obj	Left	CA23DG	206	-1.50681579126214
+sub-1023	localiser	obj	Left	Hipp Tail	110	-0.142543354545454
+sub-1023	localiser	obj	Left	PHC	474	5.98461148945148
+sub-1023	localiser	obj	Left	PRC	873	3.16786343413517
+sub-1023	localiser	obj	Left	Sub	112	-3.58660576785714
+sub-1023	localiser	obj	Left	alERC	134	1.69589908955224
+sub-1023	localiser	obj	Left	pmERC	78	5.237381
+sub-1023	localiser	obj	Right	Ant Hipp Head	73	-0.609505328767123
+sub-1023	localiser	obj	Right	CA1	129	-2.74914774418605
+sub-1023	localiser	obj	Right	CA23DG	243	-1.17896234156379
+sub-1023	localiser	obj	Right	Hipp Tail	88	-0.649467818181818
+sub-1023	localiser	obj	Right	PHC	462	7.6462281969697
+sub-1023	localiser	obj	Right	PRC	954	3.64717190041929
+sub-1023	localiser	obj	Right	Sub	117	-4.5193608974359
+sub-1023	localiser	obj	Right	alERC	158	1.52210006962025
+sub-1023	localiser	obj	Right	pmERC	91	4.34772853846154
+sub-1023	localiser	scene	Left	Ant Hipp Head	73	0.112368917808219
+sub-1023	localiser	scene	Left	CA1	102	-6.29428306862745
+sub-1023	localiser	scene	Left	CA23DG	206	-0.801168844660194
+sub-1023	localiser	scene	Left	Hipp Tail	110	-0.323568609090909
+sub-1023	localiser	scene	Left	PHC	474	10.5739463565401
+sub-1023	localiser	scene	Left	PRC	873	0.840897843069874
+sub-1023	localiser	scene	Left	Sub	112	-0.253301035714286
+sub-1023	localiser	scene	Left	alERC	134	1.68644740298507
+sub-1023	localiser	scene	Left	pmERC	78	5.96399442307692
+sub-1023	localiser	scene	Right	Ant Hipp Head	73	2.56738645205479
+sub-1023	localiser	scene	Right	CA1	129	-0.71737996124031
+sub-1023	localiser	scene	Right	CA23DG	243	1.70916711111111
+sub-1023	localiser	scene	Right	Hipp Tail	88	-2.278711625
+sub-1023	localiser	scene	Right	PHC	462	20.2389731558442
+sub-1023	localiser	scene	Right	PRC	954	1.70245423375262
+sub-1023	localiser	scene	Right	Sub	117	-2.78488447863248
+sub-1023	localiser	scene	Right	alERC	158	1.65044271518987
+sub-1023	localiser	scene	Right	pmERC	91	8.31978652747253
