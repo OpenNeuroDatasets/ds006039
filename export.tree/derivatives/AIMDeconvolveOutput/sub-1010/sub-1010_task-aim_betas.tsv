@@ -1,0 +1,289 @@
+Participant	ExperimentPhase	Category	TestType	PairType	Memory	Hemisphere	Area	ROIGroup	ROISize	Beta
+sub-1010	study	face	study	AB	Forgotten	Right	Ant Hipp Head	HC	123	0
+sub-1010	study	face	study	AB	Forgotten	Right	CA1	HC	138	0
+sub-1010	study	face	study	AB	Forgotten	Right	Sub	HC	101	0
+sub-1010	study	face	study	AB	Forgotten	Right	CA23DG	HC	238	0
+sub-1010	study	face	study	AB	Forgotten	Right	Hipp Tail	HC	71	0
+sub-1010	study	face	study	AB	Forgotten	Right	PHC	MTL	594	0
+sub-1010	study	face	study	AB	Forgotten	Right	alERC	MTL	121	0
+sub-1010	study	face	study	AB	Forgotten	Right	PRC	MTL	489	0
+sub-1010	study	face	study	AB	Forgotten	Right	pmERC	MTL	110	0
+sub-1010	study	face	study	AB	Forgotten	Left	CA1	HC	135	0
+sub-1010	study	face	study	AB	Forgotten	Left	Hipp Tail	HC	79	0
+sub-1010	study	face	study	AB	Forgotten	Left	Sub	HC	123	0
+sub-1010	study	face	study	AB	Forgotten	Left	CA23DG	HC	194	0
+sub-1010	study	face	study	AB	Forgotten	Left	PRC	MTL	694	0
+sub-1010	study	face	study	AB	Forgotten	Left	alERC	MTL	130	0
+sub-1010	study	face	study	AB	Forgotten	Left	PHC	MTL	593	0
+sub-1010	study	face	study	AB	Forgotten	Left	pmERC	MTL	115	0
+sub-1010	study	face	study	AB	Forgotten	Left	Ant Hipp Head	HC	89	0
+sub-1010	study	face	study	AB	Remembered	Right	Ant Hipp Head	HC	123	13.2627782926829
+sub-1010	study	face	study	AB	Remembered	Right	CA1	HC	138	0.671362384057971
+sub-1010	study	face	study	AB	Remembered	Right	Sub	HC	101	2.22310576237624
+sub-1010	study	face	study	AB	Remembered	Right	CA23DG	HC	238	9.63481278571429
+sub-1010	study	face	study	AB	Remembered	Right	Hipp Tail	HC	71	-6.31991973239437
+sub-1010	study	face	study	AB	Remembered	Right	PHC	MTL	594	23.8510832104377
+sub-1010	study	face	study	AB	Remembered	Right	alERC	MTL	121	3.6195787768595
+sub-1010	study	face	study	AB	Remembered	Right	PRC	MTL	489	9.81189347239264
+sub-1010	study	face	study	AB	Remembered	Right	pmERC	MTL	110	2.8191642
+sub-1010	study	face	study	AB	Remembered	Left	CA1	HC	135	-1.85468421481481
+sub-1010	study	face	study	AB	Remembered	Left	Hipp Tail	HC	79	-5.98292187341772
+sub-1010	study	face	study	AB	Remembered	Left	Sub	HC	123	1.93990081300813
+sub-1010	study	face	study	AB	Remembered	Left	CA23DG	HC	194	0.823865948453608
+sub-1010	study	face	study	AB	Remembered	Left	PRC	MTL	694	3.45614264985591
+sub-1010	study	face	study	AB	Remembered	Left	alERC	MTL	130	2.21372793846154
+sub-1010	study	face	study	AB	Remembered	Left	PHC	MTL	593	18.5854561197302
+sub-1010	study	face	study	AB	Remembered	Left	pmERC	MTL	115	13.7647424956522
+sub-1010	study	face	study	AB	Remembered	Left	Ant Hipp Head	HC	89	7.98932065168539
+sub-1010	study	face	study	BC	Forgotten	Right	Ant Hipp Head	HC	123	0
+sub-1010	study	face	study	BC	Forgotten	Right	CA1	HC	138	0
+sub-1010	study	face	study	BC	Forgotten	Right	Sub	HC	101	0
+sub-1010	study	face	study	BC	Forgotten	Right	CA23DG	HC	238	0
+sub-1010	study	face	study	BC	Forgotten	Right	Hipp Tail	HC	71	0
+sub-1010	study	face	study	BC	Forgotten	Right	PHC	MTL	594	0
+sub-1010	study	face	study	BC	Forgotten	Right	alERC	MTL	121	0
+sub-1010	study	face	study	BC	Forgotten	Right	PRC	MTL	489	0
+sub-1010	study	face	study	BC	Forgotten	Right	pmERC	MTL	110	0
+sub-1010	study	face	study	BC	Forgotten	Left	CA1	HC	135	0
+sub-1010	study	face	study	BC	Forgotten	Left	Hipp Tail	HC	79	0
+sub-1010	study	face	study	BC	Forgotten	Left	Sub	HC	123	0
+sub-1010	study	face	study	BC	Forgotten	Left	CA23DG	HC	194	0
+sub-1010	study	face	study	BC	Forgotten	Left	PRC	MTL	694	0
+sub-1010	study	face	study	BC	Forgotten	Left	alERC	MTL	130	0
+sub-1010	study	face	study	BC	Forgotten	Left	PHC	MTL	593	0
+sub-1010	study	face	study	BC	Forgotten	Left	pmERC	MTL	115	0
+sub-1010	study	face	study	BC	Forgotten	Left	Ant Hipp Head	HC	89	0
+sub-1010	study	face	study	BC	Remembered	Right	Ant Hipp Head	HC	123	11.803311
+sub-1010	study	face	study	BC	Remembered	Right	CA1	HC	138	-0.995555927536232
+sub-1010	study	face	study	BC	Remembered	Right	Sub	HC	101	-0.999196188118812
+sub-1010	study	face	study	BC	Remembered	Right	CA23DG	HC	238	-0.0429915294117648
+sub-1010	study	face	study	BC	Remembered	Right	Hipp Tail	HC	71	-1.86305429577465
+sub-1010	study	face	study	BC	Remembered	Right	PHC	MTL	594	21.6372723956229
+sub-1010	study	face	study	BC	Remembered	Right	alERC	MTL	121	7.29387201652893
+sub-1010	study	face	study	BC	Remembered	Right	PRC	MTL	489	7.80242485685072
+sub-1010	study	face	study	BC	Remembered	Right	pmERC	MTL	110	5.39247091818182
+sub-1010	study	face	study	BC	Remembered	Left	CA1	HC	135	-0.352759177777778
+sub-1010	study	face	study	BC	Remembered	Left	Hipp Tail	HC	79	-0.128629278481013
+sub-1010	study	face	study	BC	Remembered	Left	Sub	HC	123	0.871020398373984
+sub-1010	study	face	study	BC	Remembered	Left	CA23DG	HC	194	-0.330913479381443
+sub-1010	study	face	study	BC	Remembered	Left	PRC	MTL	694	4.2389676685879
+sub-1010	study	face	study	BC	Remembered	Left	alERC	MTL	130	10.1718467846154
+sub-1010	study	face	study	BC	Remembered	Left	PHC	MTL	593	15.9396699629005
+sub-1010	study	face	study	BC	Remembered	Left	pmERC	MTL	115	18.1649025130435
+sub-1010	study	face	study	BC	Remembered	Left	Ant Hipp Head	HC	89	3.66377930337079
+sub-1010	test	face	dir	test	Correct	Right	Ant Hipp Head	HC	123	-1.99232165853659
+sub-1010	test	face	dir	test	Correct	Right	CA1	HC	138	2.31238213043478
+sub-1010	test	face	dir	test	Correct	Right	Sub	HC	101	3.44858210891089
+sub-1010	test	face	dir	test	Correct	Right	CA23DG	HC	238	4.01082511344538
+sub-1010	test	face	dir	test	Correct	Right	Hipp Tail	HC	71	0.703896028169014
+sub-1010	test	face	dir	test	Correct	Right	PHC	MTL	594	17.0156717323232
+sub-1010	test	face	dir	test	Correct	Right	alERC	MTL	121	12.2497356694215
+sub-1010	test	face	dir	test	Correct	Right	PRC	MTL	489	3.17951697259104
+sub-1010	test	face	dir	test	Correct	Right	pmERC	MTL	110	5.56719352727273
+sub-1010	test	face	dir	test	Correct	Left	CA1	HC	135	-0.527338518518518
+sub-1010	test	face	dir	test	Correct	Left	Hipp Tail	HC	79	-2.86014834177215
+sub-1010	test	face	dir	test	Correct	Left	Sub	HC	123	-1.8299915203252
+sub-1010	test	face	dir	test	Correct	Left	CA23DG	HC	194	-2.99960613917526
+sub-1010	test	face	dir	test	Correct	Left	PRC	MTL	694	7.43704853746398
+sub-1010	test	face	dir	test	Correct	Left	alERC	MTL	130	7.63179875384615
+sub-1010	test	face	dir	test	Correct	Left	PHC	MTL	593	13.5648982883642
+sub-1010	test	face	dir	test	Correct	Left	pmERC	MTL	115	12.7209755304348
+sub-1010	test	face	dir	test	Correct	Left	Ant Hipp Head	HC	89	0.469452011235955
+sub-1010	test	face	dir	test	Incorrect	Right	Ant Hipp Head	HC	123	0
+sub-1010	test	face	dir	test	Incorrect	Right	CA1	HC	138	0
+sub-1010	test	face	dir	test	Incorrect	Right	Sub	HC	101	0
+sub-1010	test	face	dir	test	Incorrect	Right	CA23DG	HC	238	0
+sub-1010	test	face	dir	test	Incorrect	Right	Hipp Tail	HC	71	0
+sub-1010	test	face	dir	test	Incorrect	Right	PHC	MTL	594	0
+sub-1010	test	face	dir	test	Incorrect	Right	alERC	MTL	121	0
+sub-1010	test	face	dir	test	Incorrect	Right	PRC	MTL	489	0
+sub-1010	test	face	dir	test	Incorrect	Right	pmERC	MTL	110	0
+sub-1010	test	face	dir	test	Incorrect	Left	CA1	HC	135	0
+sub-1010	test	face	dir	test	Incorrect	Left	Hipp Tail	HC	79	0
+sub-1010	test	face	dir	test	Incorrect	Left	Sub	HC	123	0
+sub-1010	test	face	dir	test	Incorrect	Left	CA23DG	HC	194	0
+sub-1010	test	face	dir	test	Incorrect	Left	PRC	MTL	694	0
+sub-1010	test	face	dir	test	Incorrect	Left	alERC	MTL	130	0
+sub-1010	test	face	dir	test	Incorrect	Left	PHC	MTL	593	0
+sub-1010	test	face	dir	test	Incorrect	Left	pmERC	MTL	115	0
+sub-1010	test	face	dir	test	Incorrect	Left	Ant Hipp Head	HC	89	0
+sub-1010	test	face	indir	test	Correct	Right	Ant Hipp Head	HC	123	-3.31973216260163
+sub-1010	test	face	indir	test	Correct	Right	CA1	HC	138	-3.39441713768116
+sub-1010	test	face	indir	test	Correct	Right	Sub	HC	101	0.396241514851485
+sub-1010	test	face	indir	test	Correct	Right	CA23DG	HC	238	-5.49927989915966
+sub-1010	test	face	indir	test	Correct	Right	Hipp Tail	HC	71	5.43374754929577
+sub-1010	test	face	indir	test	Correct	Right	PHC	MTL	594	19.5873297407407
+sub-1010	test	face	indir	test	Correct	Right	alERC	MTL	121	1.75098888429752
+sub-1010	test	face	indir	test	Correct	Right	PRC	MTL	489	0.655184807770961
+sub-1010	test	face	indir	test	Correct	Right	pmERC	MTL	110	7.07091102727273
+sub-1010	test	face	indir	test	Correct	Left	CA1	HC	135	-1.48675608888889
+sub-1010	test	face	indir	test	Correct	Left	Hipp Tail	HC	79	2.42569469620253
+sub-1010	test	face	indir	test	Correct	Left	Sub	HC	123	-2.77345004065041
+sub-1010	test	face	indir	test	Correct	Left	CA23DG	HC	194	-7.03006480412371
+sub-1010	test	face	indir	test	Correct	Left	PRC	MTL	694	1.43477965706052
+sub-1010	test	face	indir	test	Correct	Left	alERC	MTL	130	10.3530181846154
+sub-1010	test	face	indir	test	Correct	Left	PHC	MTL	593	13.6598476424958
+sub-1010	test	face	indir	test	Correct	Left	pmERC	MTL	115	13.6434467391304
+sub-1010	test	face	indir	test	Correct	Left	Ant Hipp Head	HC	89	-5.83875384269663
+sub-1010	test	face	indir	test	Incorrect	Right	Ant Hipp Head	HC	123	0
+sub-1010	test	face	indir	test	Incorrect	Right	CA1	HC	138	0
+sub-1010	test	face	indir	test	Incorrect	Right	Sub	HC	101	0
+sub-1010	test	face	indir	test	Incorrect	Right	CA23DG	HC	238	0
+sub-1010	test	face	indir	test	Incorrect	Right	Hipp Tail	HC	71	0
+sub-1010	test	face	indir	test	Incorrect	Right	PHC	MTL	594	0
+sub-1010	test	face	indir	test	Incorrect	Right	alERC	MTL	121	0
+sub-1010	test	face	indir	test	Incorrect	Right	PRC	MTL	489	0
+sub-1010	test	face	indir	test	Incorrect	Right	pmERC	MTL	110	0
+sub-1010	test	face	indir	test	Incorrect	Left	CA1	HC	135	0
+sub-1010	test	face	indir	test	Incorrect	Left	Hipp Tail	HC	79	0
+sub-1010	test	face	indir	test	Incorrect	Left	Sub	HC	123	0
+sub-1010	test	face	indir	test	Incorrect	Left	CA23DG	HC	194	0
+sub-1010	test	face	indir	test	Incorrect	Left	PRC	MTL	694	0
+sub-1010	test	face	indir	test	Incorrect	Left	alERC	MTL	130	0
+sub-1010	test	face	indir	test	Incorrect	Left	PHC	MTL	593	0
+sub-1010	test	face	indir	test	Incorrect	Left	pmERC	MTL	115	0
+sub-1010	test	face	indir	test	Incorrect	Left	Ant Hipp Head	HC	89	0
+sub-1010	study	scene	study	AB	Forgotten	Right	Ant Hipp Head	HC	123	3.61095326829268
+sub-1010	study	scene	study	AB	Forgotten	Right	CA1	HC	138	-2.98278502173913
+sub-1010	study	scene	study	AB	Forgotten	Right	Sub	HC	101	6.83087377227723
+sub-1010	study	scene	study	AB	Forgotten	Right	CA23DG	HC	238	3.24398478571429
+sub-1010	study	scene	study	AB	Forgotten	Right	Hipp Tail	HC	71	-17.9725134507042
+sub-1010	study	scene	study	AB	Forgotten	Right	PHC	MTL	594	42.6101112171717
+sub-1010	study	scene	study	AB	Forgotten	Right	alERC	MTL	121	12.9001652396694
+sub-1010	study	scene	study	AB	Forgotten	Right	PRC	MTL	489	2.58537164621677
+sub-1010	study	scene	study	AB	Forgotten	Right	pmERC	MTL	110	20.3838452909091
+sub-1010	study	scene	study	AB	Forgotten	Left	CA1	HC	135	-5.19005838518519
+sub-1010	study	scene	study	AB	Forgotten	Left	Hipp Tail	HC	79	-16.9678242025316
+sub-1010	study	scene	study	AB	Forgotten	Left	Sub	HC	123	3.23533344715447
+sub-1010	study	scene	study	AB	Forgotten	Left	CA23DG	HC	194	13.4315574123711
+sub-1010	study	scene	study	AB	Forgotten	Left	PRC	MTL	694	8.90130923631124
+sub-1010	study	scene	study	AB	Forgotten	Left	alERC	MTL	130	14.2490997846154
+sub-1010	study	scene	study	AB	Forgotten	Left	PHC	MTL	593	29.2776226053963
+sub-1010	study	scene	study	AB	Forgotten	Left	pmERC	MTL	115	23.9170318347826
+sub-1010	study	scene	study	AB	Forgotten	Left	Ant Hipp Head	HC	89	-3.55313882022472
+sub-1010	study	scene	study	AB	Remembered	Right	Ant Hipp Head	HC	123	5.85664652845528
+sub-1010	study	scene	study	AB	Remembered	Right	CA1	HC	138	-10.0891912826087
+sub-1010	study	scene	study	AB	Remembered	Right	Sub	HC	101	4.0735270990099
+sub-1010	study	scene	study	AB	Remembered	Right	CA23DG	HC	238	-3.35889220588235
+sub-1010	study	scene	study	AB	Remembered	Right	Hipp Tail	HC	71	-7.28277047887324
+sub-1010	study	scene	study	AB	Remembered	Right	PHC	MTL	594	33.8868897070707
+sub-1010	study	scene	study	AB	Remembered	Right	alERC	MTL	121	2.59558463636364
+sub-1010	study	scene	study	AB	Remembered	Right	PRC	MTL	489	-3.52300948261759
+sub-1010	study	scene	study	AB	Remembered	Right	pmERC	MTL	110	2.76462804545455
+sub-1010	study	scene	study	AB	Remembered	Left	CA1	HC	135	-7.23166082962963
+sub-1010	study	scene	study	AB	Remembered	Left	Hipp Tail	HC	79	-6.07622053164557
+sub-1010	study	scene	study	AB	Remembered	Left	Sub	HC	123	0.734569707317073
+sub-1010	study	scene	study	AB	Remembered	Left	CA23DG	HC	194	-3.05818937113402
+sub-1010	study	scene	study	AB	Remembered	Left	PRC	MTL	694	-4.97116446685879
+sub-1010	study	scene	study	AB	Remembered	Left	alERC	MTL	130	6.52690898461538
+sub-1010	study	scene	study	AB	Remembered	Left	PHC	MTL	593	25.5286260994941
+sub-1010	study	scene	study	AB	Remembered	Left	pmERC	MTL	115	13.2650437565217
+sub-1010	study	scene	study	AB	Remembered	Left	Ant Hipp Head	HC	89	-0.744925112359551
+sub-1010	study	scene	study	BC	Forgotten	Right	Ant Hipp Head	HC	123	-11.8552245934959
+sub-1010	study	scene	study	BC	Forgotten	Right	CA1	HC	138	-3.53306165217391
+sub-1010	study	scene	study	BC	Forgotten	Right	Sub	HC	101	10.4077737821782
+sub-1010	study	scene	study	BC	Forgotten	Right	CA23DG	HC	238	-3.03640080252101
+sub-1010	study	scene	study	BC	Forgotten	Right	Hipp Tail	HC	71	-2.36112454929577
+sub-1010	study	scene	study	BC	Forgotten	Right	PHC	MTL	594	28.6179932929293
+sub-1010	study	scene	study	BC	Forgotten	Right	alERC	MTL	121	-4.68770279338843
+sub-1010	study	scene	study	BC	Forgotten	Right	PRC	MTL	489	-4.04011490184049
+sub-1010	study	scene	study	BC	Forgotten	Right	pmERC	MTL	110	7.69756374545455
+sub-1010	study	scene	study	BC	Forgotten	Left	CA1	HC	135	-1.76658411111111
+sub-1010	study	scene	study	BC	Forgotten	Left	Hipp Tail	HC	79	-11.5303859746835
+sub-1010	study	scene	study	BC	Forgotten	Left	Sub	HC	123	0.722264967479675
+sub-1010	study	scene	study	BC	Forgotten	Left	CA23DG	HC	194	0.870090670103093
+sub-1010	study	scene	study	BC	Forgotten	Left	PRC	MTL	694	-2.13198108501441
+sub-1010	study	scene	study	BC	Forgotten	Left	alERC	MTL	130	1.27231263076923
+sub-1010	study	scene	study	BC	Forgotten	Left	PHC	MTL	593	18.8847532866779
+sub-1010	study	scene	study	BC	Forgotten	Left	pmERC	MTL	115	5.46033242608696
+sub-1010	study	scene	study	BC	Forgotten	Left	Ant Hipp Head	HC	89	-5.91193197752809
+sub-1010	study	scene	study	BC	Remembered	Right	Ant Hipp Head	HC	123	6.99755363414634
+sub-1010	study	scene	study	BC	Remembered	Right	CA1	HC	138	-1.25624952173913
+sub-1010	study	scene	study	BC	Remembered	Right	Sub	HC	101	3.53538985148515
+sub-1010	study	scene	study	BC	Remembered	Right	CA23DG	HC	238	0.343305323529412
+sub-1010	study	scene	study	BC	Remembered	Right	Hipp Tail	HC	71	-5.84286877464789
+sub-1010	study	scene	study	BC	Remembered	Right	PHC	MTL	594	33.3181501346801
+sub-1010	study	scene	study	BC	Remembered	Right	alERC	MTL	121	7.78972845454545
+sub-1010	study	scene	study	BC	Remembered	Right	PRC	MTL	489	0.542742130879346
+sub-1010	study	scene	study	BC	Remembered	Right	pmERC	MTL	110	7.20110215454545
+sub-1010	study	scene	study	BC	Remembered	Left	CA1	HC	135	-5.38401042962963
+sub-1010	study	scene	study	BC	Remembered	Left	Hipp Tail	HC	79	-2.71339748101266
+sub-1010	study	scene	study	BC	Remembered	Left	Sub	HC	123	1.31745259349593
+sub-1010	study	scene	study	BC	Remembered	Left	CA23DG	HC	194	0.320818835051546
+sub-1010	study	scene	study	BC	Remembered	Left	PRC	MTL	694	-2.34743497550432
+sub-1010	study	scene	study	BC	Remembered	Left	alERC	MTL	130	4.27771497692308
+sub-1010	study	scene	study	BC	Remembered	Left	PHC	MTL	593	23.9961439780776
+sub-1010	study	scene	study	BC	Remembered	Left	pmERC	MTL	115	20.3571425391304
+sub-1010	study	scene	study	BC	Remembered	Left	Ant Hipp Head	HC	89	0.70892995505618
+sub-1010	test	scene	dir	test	Correct	Right	Ant Hipp Head	HC	123	9.51802246341463
+sub-1010	test	scene	dir	test	Correct	Right	CA1	HC	138	0.8540445
+sub-1010	test	scene	dir	test	Correct	Right	Sub	HC	101	5.07774927722772
+sub-1010	test	scene	dir	test	Correct	Right	CA23DG	HC	238	3.60841294117647
+sub-1010	test	scene	dir	test	Correct	Right	Hipp Tail	HC	71	-1.12203915492958
+sub-1010	test	scene	dir	test	Correct	Right	PHC	MTL	594	33.0062856010101
+sub-1010	test	scene	dir	test	Correct	Right	alERC	MTL	121	10.3669977603306
+sub-1010	test	scene	dir	test	Correct	Right	PRC	MTL	489	2.37785802249489
+sub-1010	test	scene	dir	test	Correct	Right	pmERC	MTL	110	7.514587
+sub-1010	test	scene	dir	test	Correct	Left	CA1	HC	135	0.228592903703704
+sub-1010	test	scene	dir	test	Correct	Left	Hipp Tail	HC	79	-1.27395041772152
+sub-1010	test	scene	dir	test	Correct	Left	Sub	HC	123	4.16636089430894
+sub-1010	test	scene	dir	test	Correct	Left	CA23DG	HC	194	1.67009383505155
+sub-1010	test	scene	dir	test	Correct	Left	PRC	MTL	694	3.12794492363112
+sub-1010	test	scene	dir	test	Correct	Left	alERC	MTL	130	7.4249828
+sub-1010	test	scene	dir	test	Correct	Left	PHC	MTL	593	26.2006713136594
+sub-1010	test	scene	dir	test	Correct	Left	pmERC	MTL	115	16.9660208521739
+sub-1010	test	scene	dir	test	Correct	Left	Ant Hipp Head	HC	89	4.68262706741573
+sub-1010	test	scene	dir	test	Incorrect	Right	Ant Hipp Head	HC	123	-6.31335911382114
+sub-1010	test	scene	dir	test	Incorrect	Right	CA1	HC	138	-16.4121455289855
+sub-1010	test	scene	dir	test	Incorrect	Right	Sub	HC	101	-1.51676843564356
+sub-1010	test	scene	dir	test	Incorrect	Right	CA23DG	HC	238	-15.4480565756303
+sub-1010	test	scene	dir	test	Incorrect	Right	Hipp Tail	HC	71	-7.12796714084507
+sub-1010	test	scene	dir	test	Incorrect	Right	PHC	MTL	594	25.0428965875421
+sub-1010	test	scene	dir	test	Incorrect	Right	alERC	MTL	121	-6.24000465289256
+sub-1010	test	scene	dir	test	Incorrect	Right	PRC	MTL	489	-6.2169146809816
+sub-1010	test	scene	dir	test	Incorrect	Right	pmERC	MTL	110	-0.704148054545454
+sub-1010	test	scene	dir	test	Incorrect	Left	CA1	HC	135	-5.51565424444444
+sub-1010	test	scene	dir	test	Incorrect	Left	Hipp Tail	HC	79	-17.9800779746835
+sub-1010	test	scene	dir	test	Incorrect	Left	Sub	HC	123	-14.9492759756098
+sub-1010	test	scene	dir	test	Incorrect	Left	CA23DG	HC	194	-14.1005437216495
+sub-1010	test	scene	dir	test	Incorrect	Left	PRC	MTL	694	-4.94855131268012
+sub-1010	test	scene	dir	test	Incorrect	Left	alERC	MTL	130	-4.57552216923077
+sub-1010	test	scene	dir	test	Incorrect	Left	PHC	MTL	593	13.7261883693086
+sub-1010	test	scene	dir	test	Incorrect	Left	pmERC	MTL	115	4.86202955652174
+sub-1010	test	scene	dir	test	Incorrect	Left	Ant Hipp Head	HC	89	-0.774286606741573
+sub-1010	test	scene	indir	test	Correct	Right	Ant Hipp Head	HC	123	2.90550388617886
+sub-1010	test	scene	indir	test	Correct	Right	CA1	HC	138	-3.62167332608696
+sub-1010	test	scene	indir	test	Correct	Right	Sub	HC	101	-1.16399563366337
+sub-1010	test	scene	indir	test	Correct	Right	CA23DG	HC	238	-10.8595686008403
+sub-1010	test	scene	indir	test	Correct	Right	Hipp Tail	HC	71	1.82935874647887
+sub-1010	test	scene	indir	test	Correct	Right	PHC	MTL	594	23.3802653888889
+sub-1010	test	scene	indir	test	Correct	Right	alERC	MTL	121	3.96034556198347
+sub-1010	test	scene	indir	test	Correct	Right	PRC	MTL	489	-0.885304650306748
+sub-1010	test	scene	indir	test	Correct	Right	pmERC	MTL	110	2.50896159090909
+sub-1010	test	scene	indir	test	Correct	Left	CA1	HC	135	-3.06537293333333
+sub-1010	test	scene	indir	test	Correct	Left	Hipp Tail	HC	79	-1.45381778481013
+sub-1010	test	scene	indir	test	Correct	Left	Sub	HC	123	0.114992105691057
+sub-1010	test	scene	indir	test	Correct	Left	CA23DG	HC	194	-8.11005096391753
+sub-1010	test	scene	indir	test	Correct	Left	PRC	MTL	694	-3.7917501426513
+sub-1010	test	scene	indir	test	Correct	Left	alERC	MTL	130	4.56742433846154
+sub-1010	test	scene	indir	test	Correct	Left	PHC	MTL	593	17.6329054569983
+sub-1010	test	scene	indir	test	Correct	Left	pmERC	MTL	115	13.4386364434783
+sub-1010	test	scene	indir	test	Correct	Left	Ant Hipp Head	HC	89	-0.451138191011236
+sub-1010	test	scene	indir	test	Incorrect	Right	Ant Hipp Head	HC	123	7.74351192682927
+sub-1010	test	scene	indir	test	Incorrect	Right	CA1	HC	138	-5.76151745652174
+sub-1010	test	scene	indir	test	Incorrect	Right	Sub	HC	101	-1.33640062376238
+sub-1010	test	scene	indir	test	Incorrect	Right	CA23DG	HC	238	-4.73419719327731
+sub-1010	test	scene	indir	test	Incorrect	Right	Hipp Tail	HC	71	11.482298056338
+sub-1010	test	scene	indir	test	Incorrect	Right	PHC	MTL	594	20.1514532289562
+sub-1010	test	scene	indir	test	Incorrect	Right	alERC	MTL	121	13.1676313305785
+sub-1010	test	scene	indir	test	Incorrect	Right	PRC	MTL	489	6.09053526993865
+sub-1010	test	scene	indir	test	Incorrect	Right	pmERC	MTL	110	11.4414168454545
+sub-1010	test	scene	indir	test	Incorrect	Left	CA1	HC	135	-6.74013215555556
+sub-1010	test	scene	indir	test	Incorrect	Left	Hipp Tail	HC	79	3.31562829113924
+sub-1010	test	scene	indir	test	Incorrect	Left	Sub	HC	123	-1.31402656910569
+sub-1010	test	scene	indir	test	Incorrect	Left	CA23DG	HC	194	-8.23556854123711
+sub-1010	test	scene	indir	test	Incorrect	Left	PRC	MTL	694	6.25774652017291
+sub-1010	test	scene	indir	test	Incorrect	Left	alERC	MTL	130	9.41996801538462
+sub-1010	test	scene	indir	test	Incorrect	Left	PHC	MTL	593	20.2023143946037
+sub-1010	test	scene	indir	test	Incorrect	Left	pmERC	MTL	115	20.2386424695652
+sub-1010	test	scene	indir	test	Incorrect	Left	Ant Hipp Head	HC	89	-5.08530488764045
