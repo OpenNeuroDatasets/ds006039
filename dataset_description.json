@@ -12,7 +12,7 @@
     ],
     "Acknowledgements": "This work was supported by a grant from Alzheimer’s Society of Canada awarded to Jessica Robin and Rosanna K. Olsen, and a grant from Natural Sciences and Engineering Research Council of Canada awarded to Rosanna K. Olsen (RGPIN-2017-06178).",
     "License": "CC0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds006039.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006039.v1.0.1",
     "TaskName": {
         "aim": "Associative Inference Memory Task",
         "local": "Funcational Localiser Task"
