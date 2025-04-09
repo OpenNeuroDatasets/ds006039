@@ -2,6 +2,7 @@
 "sub-1014"	"localiser"	"face"	"Left"	"Ant Hipp Head"	48	-1.86120647916667
 "sub-1014"	"localiser"	"face"	"Left"	"CA1"	118	-2.122749
 "sub-1014"	"localiser"	"face"	"Left"	"CA23DG"	180	0.0320450944444445
+"sub-1014"	"localiser"	"face"	"Left"	"FFA"	61	60.0403482459016
 "sub-1014"	"localiser"	"face"	"Left"	"Hipp Tail"	59	3.40537489830508
 "sub-1014"	"localiser"	"face"	"Left"	"PHC"	401	-3.58196627930175
 "sub-1014"	"localiser"	"face"	"Left"	"PRC"	602	2.78397025083056
@@ -11,6 +12,7 @@
 "sub-1014"	"localiser"	"face"	"Right"	"Ant Hipp Head"	125	1.445832424
 "sub-1014"	"localiser"	"face"	"Right"	"CA1"	135	-1.04782194814815
 "sub-1014"	"localiser"	"face"	"Right"	"CA23DG"	177	1.21493313559322
+"sub-1014"	"localiser"	"face"	"Right"	"FFA"	168	36.2323006904762
 "sub-1014"	"localiser"	"face"	"Right"	"Hipp Tail"	47	-1.27941631914894
 "sub-1014"	"localiser"	"face"	"Right"	"PHC"	347	-4.02522913832853
 "sub-1014"	"localiser"	"face"	"Right"	"PRC"	508	2.73363791338583
@@ -20,6 +22,7 @@
 "sub-1014"	"localiser"	"obj"	"Left"	"Ant Hipp Head"	48	-7.20404279166667
 "sub-1014"	"localiser"	"obj"	"Left"	"CA1"	118	-1.4924603220339
 "sub-1014"	"localiser"	"obj"	"Left"	"CA23DG"	180	-1.81486294444444
+"sub-1014"	"localiser"	"obj"	"Left"	"FFA"	61	14.2471172622951
 "sub-1014"	"localiser"	"obj"	"Left"	"Hipp Tail"	59	4.66533877966102
 "sub-1014"	"localiser"	"obj"	"Left"	"PHC"	401	3.90068087281796
 "sub-1014"	"localiser"	"obj"	"Left"	"PRC"	602	1.08481155481728
@@ -29,6 +32,7 @@
 "sub-1014"	"localiser"	"obj"	"Right"	"Ant Hipp Head"	125	-4.83241176
 "sub-1014"	"localiser"	"obj"	"Right"	"CA1"	135	-1.1171586
 "sub-1014"	"localiser"	"obj"	"Right"	"CA23DG"	177	-2.56734024293785
+"sub-1014"	"localiser"	"obj"	"Right"	"FFA"	168	1.6531449702381
 "sub-1014"	"localiser"	"obj"	"Right"	"Hipp Tail"	47	-2.88692385106383
 "sub-1014"	"localiser"	"obj"	"Right"	"PHC"	347	6.80587413544669
 "sub-1014"	"localiser"	"obj"	"Right"	"PRC"	508	2.89112852755906
@@ -38,6 +42,7 @@
 "sub-1014"	"localiser"	"scene"	"Left"	"Ant Hipp Head"	48	5.16707679166667
 "sub-1014"	"localiser"	"scene"	"Left"	"CA1"	118	2.90393400847458
 "sub-1014"	"localiser"	"scene"	"Left"	"CA23DG"	180	4.87094826666667
+"sub-1014"	"localiser"	"scene"	"Left"	"FFA"	61	6.54486696721311
 "sub-1014"	"localiser"	"scene"	"Left"	"Hipp Tail"	59	4.33887042372881
 "sub-1014"	"localiser"	"scene"	"Left"	"PHC"	401	23.9239038503741
 "sub-1014"	"localiser"	"scene"	"Left"	"PRC"	602	1.6998116013289
@@ -47,6 +52,7 @@
 "sub-1014"	"localiser"	"scene"	"Right"	"Ant Hipp Head"	125	5.23308056
 "sub-1014"	"localiser"	"scene"	"Right"	"CA1"	135	-0.258919666666667
 "sub-1014"	"localiser"	"scene"	"Right"	"CA23DG"	177	9.97460703389831
+"sub-1014"	"localiser"	"scene"	"Right"	"FFA"	168	-10.1950547738095
 "sub-1014"	"localiser"	"scene"	"Right"	"Hipp Tail"	47	-1.02881072340426
 "sub-1014"	"localiser"	"scene"	"Right"	"PHC"	347	33.8062949596542
 "sub-1014"	"localiser"	"scene"	"Right"	"PRC"	508	6.59256975787402
