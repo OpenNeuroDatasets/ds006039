@@ -52,7 +52,7 @@
     "Levels": {
       "0": "Incorrect response",
       "1": "Correct response",
-      "NA": "No response (In the test phase, an NA indicates that the participant did not respond on a given trial. In the study phase, an NA indicates that the corresponding test phase trial did not receive a response."
+      "NA": "No response (In the test phase, an NA indicates that the participant did not respond on the given trial. In the study phase, an NA indicates that the corresponding indirect test trial did not receive a response."
     }
   }
 }
