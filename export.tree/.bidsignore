@@ -1,3 +1,0 @@
-# Ignore eye-tracking data, since those are not supported by BIDS yet
-**/*_task-aim_eyetracking.json
-**/*_task-aim_eyetracking.tsv
