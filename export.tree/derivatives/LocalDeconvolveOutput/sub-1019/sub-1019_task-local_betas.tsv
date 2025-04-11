@@ -1,0 +1,61 @@
+"Participant"	"ExperimentPhase"	"Category"	"Hemisphere"	"Area"	"ROISize"	"Beta"
+"sub-1019"	"localiser"	"face"	"Left"	"Ant Hipp Head"	47	5.70402582978723
+"sub-1019"	"localiser"	"face"	"Left"	"CA1"	110	1.46873908181818
+"sub-1019"	"localiser"	"face"	"Left"	"CA23DG"	193	3.13176601036269
+"sub-1019"	"localiser"	"face"	"Left"	"FFA"	115	44.1761068347826
+"sub-1019"	"localiser"	"face"	"Left"	"Hipp Tail"	121	0.122361619834711
+"sub-1019"	"localiser"	"face"	"Left"	"PHC"	440	-3.93725334545455
+"sub-1019"	"localiser"	"face"	"Left"	"PRC"	479	-0.202475876826722
+"sub-1019"	"localiser"	"face"	"Left"	"Sub"	100	-1.53659154
+"sub-1019"	"localiser"	"face"	"Left"	"alERC"	121	-1.57282376859504
+"sub-1019"	"localiser"	"face"	"Left"	"pmERC"	100	-0.46757056
+"sub-1019"	"localiser"	"face"	"Right"	"Ant Hipp Head"	56	4.70360051785714
+"sub-1019"	"localiser"	"face"	"Right"	"CA1"	138	4.70269228985507
+"sub-1019"	"localiser"	"face"	"Right"	"CA23DG"	265	3.946487
+"sub-1019"	"localiser"	"face"	"Right"	"FFA"	249	54.258007
+"sub-1019"	"localiser"	"face"	"Right"	"Hipp Tail"	62	1.07454246774194
+"sub-1019"	"localiser"	"face"	"Right"	"PHC"	358	-1.62667113407821
+"sub-1019"	"localiser"	"face"	"Right"	"PRC"	364	2.66892376923077
+"sub-1019"	"localiser"	"face"	"Right"	"Sub"	89	1.53303415730337
+"sub-1019"	"localiser"	"face"	"Right"	"alERC"	172	2.44295299418605
+"sub-1019"	"localiser"	"face"	"Right"	"pmERC"	88	0.587161931818182
+"sub-1019"	"localiser"	"obj"	"Left"	"Ant Hipp Head"	47	-0.139059382978723
+"sub-1019"	"localiser"	"obj"	"Left"	"CA1"	110	3.1266276
+"sub-1019"	"localiser"	"obj"	"Left"	"CA23DG"	193	-1.14061378238342
+"sub-1019"	"localiser"	"obj"	"Left"	"FFA"	115	3.3657028
+"sub-1019"	"localiser"	"obj"	"Left"	"Hipp Tail"	121	1.00943133057851
+"sub-1019"	"localiser"	"obj"	"Left"	"PHC"	440	0.07820735
+"sub-1019"	"localiser"	"obj"	"Left"	"PRC"	479	0.258959185803758
+"sub-1019"	"localiser"	"obj"	"Left"	"Sub"	100	-0.89341917
+"sub-1019"	"localiser"	"obj"	"Left"	"alERC"	121	2.80210891735537
+"sub-1019"	"localiser"	"obj"	"Left"	"pmERC"	100	1.9170185
+"sub-1019"	"localiser"	"obj"	"Right"	"Ant Hipp Head"	56	5.19856994642857
+"sub-1019"	"localiser"	"obj"	"Right"	"CA1"	138	2.8993737173913
+"sub-1019"	"localiser"	"obj"	"Right"	"CA23DG"	265	2.73413482641509
+"sub-1019"	"localiser"	"obj"	"Right"	"FFA"	249	12.5162876827309
+"sub-1019"	"localiser"	"obj"	"Right"	"Hipp Tail"	62	4.76282638709677
+"sub-1019"	"localiser"	"obj"	"Right"	"PHC"	358	0.974910525139665
+"sub-1019"	"localiser"	"obj"	"Right"	"PRC"	364	2.17528028021978
+"sub-1019"	"localiser"	"obj"	"Right"	"Sub"	89	1.48394307865169
+"sub-1019"	"localiser"	"obj"	"Right"	"alERC"	172	5.11199295930233
+"sub-1019"	"localiser"	"obj"	"Right"	"pmERC"	88	-0.0585156136363636
+"sub-1019"	"localiser"	"scene"	"Left"	"Ant Hipp Head"	47	6.81334876595745
+"sub-1019"	"localiser"	"scene"	"Left"	"CA1"	110	-2.39711850909091
+"sub-1019"	"localiser"	"scene"	"Left"	"CA23DG"	193	2.44582487564767
+"sub-1019"	"localiser"	"scene"	"Left"	"FFA"	115	-10.1740983826087
+"sub-1019"	"localiser"	"scene"	"Left"	"Hipp Tail"	121	-2.33398995041322
+"sub-1019"	"localiser"	"scene"	"Left"	"PHC"	440	11.2539068363636
+"sub-1019"	"localiser"	"scene"	"Left"	"PRC"	479	-0.996002569937369
+"sub-1019"	"localiser"	"scene"	"Left"	"Sub"	100	-3.18140983
+"sub-1019"	"localiser"	"scene"	"Left"	"alERC"	121	-0.0604960909090909
+"sub-1019"	"localiser"	"scene"	"Left"	"pmERC"	100	1.43654684
+"sub-1019"	"localiser"	"scene"	"Right"	"Ant Hipp Head"	56	-1.17398566071429
+"sub-1019"	"localiser"	"scene"	"Right"	"CA1"	138	0.477302963768116
+"sub-1019"	"localiser"	"scene"	"Right"	"CA23DG"	265	2.36254670188679
+"sub-1019"	"localiser"	"scene"	"Right"	"FFA"	249	-0.417452514056225
+"sub-1019"	"localiser"	"scene"	"Right"	"Hipp Tail"	62	0.0241287741935485
+"sub-1019"	"localiser"	"scene"	"Right"	"PHC"	358	22.0415437932961
+"sub-1019"	"localiser"	"scene"	"Right"	"PRC"	364	3.2059013021978
+"sub-1019"	"localiser"	"scene"	"Right"	"Sub"	89	1.20014991011236
+"sub-1019"	"localiser"	"scene"	"Right"	"alERC"	172	7.76953854651163
+"sub-1019"	"localiser"	"scene"	"Right"	"pmERC"	88	7.94961784090909

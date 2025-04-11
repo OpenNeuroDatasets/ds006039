@@ -1,0 +1,61 @@
+"Participant"	"ExperimentPhase"	"Category"	"Hemisphere"	"Area"	"ROISize"	"Beta"
+"sub-1034"	"localiser"	"face"	"Left"	"Ant Hipp Head"	119	2.70159084033613
+"sub-1034"	"localiser"	"face"	"Left"	"CA1"	140	-1.94832536428571
+"sub-1034"	"localiser"	"face"	"Left"	"CA23DG"	252	2.18567693650794
+"sub-1034"	"localiser"	"face"	"Left"	"FFA"	364	36.2747380769231
+"sub-1034"	"localiser"	"face"	"Left"	"Hipp Tail"	87	-2.05569748275862
+"sub-1034"	"localiser"	"face"	"Left"	"PHC"	705	-5.59046285957447
+"sub-1034"	"localiser"	"face"	"Left"	"PRC"	1054	1.09869766318786
+"sub-1034"	"localiser"	"face"	"Left"	"Sub"	157	-4.40555205732484
+"sub-1034"	"localiser"	"face"	"Left"	"alERC"	82	0.773437707317073
+"sub-1034"	"localiser"	"face"	"Left"	"pmERC"	69	-5.54144798550725
+"sub-1034"	"localiser"	"face"	"Right"	"Ant Hipp Head"	62	2.24691827419355
+"sub-1034"	"localiser"	"face"	"Right"	"CA1"	147	-1.38384489795918
+"sub-1034"	"localiser"	"face"	"Right"	"CA23DG"	297	4.26117471043771
+"sub-1034"	"localiser"	"face"	"Right"	"FFA"	808	54.7754966472772
+"sub-1034"	"localiser"	"face"	"Right"	"Hipp Tail"	95	0.528597031578947
+"sub-1034"	"localiser"	"face"	"Right"	"PHC"	683	-7.87008385651537
+"sub-1034"	"localiser"	"face"	"Right"	"PRC"	613	1.16166243066884
+"sub-1034"	"localiser"	"face"	"Right"	"Sub"	194	0.268782422680412
+"sub-1034"	"localiser"	"face"	"Right"	"alERC"	113	0.56455989380531
+"sub-1034"	"localiser"	"face"	"Right"	"pmERC"	85	-5.95531445882353
+"sub-1034"	"localiser"	"obj"	"Left"	"Ant Hipp Head"	119	0.312219319327731
+"sub-1034"	"localiser"	"obj"	"Left"	"CA1"	140	-5.51220964285714
+"sub-1034"	"localiser"	"obj"	"Left"	"CA23DG"	252	1.07135950396825
+"sub-1034"	"localiser"	"obj"	"Left"	"FFA"	364	17.8848186730769
+"sub-1034"	"localiser"	"obj"	"Left"	"Hipp Tail"	87	-4.99383018390805
+"sub-1034"	"localiser"	"obj"	"Left"	"PHC"	705	-0.400018509219858
+"sub-1034"	"localiser"	"obj"	"Left"	"PRC"	1054	1.5898335370019
+"sub-1034"	"localiser"	"obj"	"Left"	"Sub"	157	-2.31503740764331
+"sub-1034"	"localiser"	"obj"	"Left"	"alERC"	82	1.61246925609756
+"sub-1034"	"localiser"	"obj"	"Left"	"pmERC"	69	0.968217289855072
+"sub-1034"	"localiser"	"obj"	"Right"	"Ant Hipp Head"	62	-0.0971385645161289
+"sub-1034"	"localiser"	"obj"	"Right"	"CA1"	147	-1.5138735170068
+"sub-1034"	"localiser"	"obj"	"Right"	"CA23DG"	297	1.69080985521886
+"sub-1034"	"localiser"	"obj"	"Right"	"FFA"	808	33.0008539071782
+"sub-1034"	"localiser"	"obj"	"Right"	"Hipp Tail"	95	0.928117694736842
+"sub-1034"	"localiser"	"obj"	"Right"	"PHC"	683	2.18639597803807
+"sub-1034"	"localiser"	"obj"	"Right"	"PRC"	613	2.75191658727569
+"sub-1034"	"localiser"	"obj"	"Right"	"Sub"	194	1.03357461340206
+"sub-1034"	"localiser"	"obj"	"Right"	"alERC"	113	4.08434371681416
+"sub-1034"	"localiser"	"obj"	"Right"	"pmERC"	85	0.707086905882353
+"sub-1034"	"localiser"	"scene"	"Left"	"Ant Hipp Head"	119	-1.08591882352941
+"sub-1034"	"localiser"	"scene"	"Left"	"CA1"	140	-4.76907806428571
+"sub-1034"	"localiser"	"scene"	"Left"	"CA23DG"	252	1.4293068015873
+"sub-1034"	"localiser"	"scene"	"Left"	"FFA"	364	3.78292315659341
+"sub-1034"	"localiser"	"scene"	"Left"	"Hipp Tail"	87	-1.63717601149425
+"sub-1034"	"localiser"	"scene"	"Left"	"PHC"	705	5.54567993333333
+"sub-1034"	"localiser"	"scene"	"Left"	"PRC"	1054	0.899847023719165
+"sub-1034"	"localiser"	"scene"	"Left"	"Sub"	157	-1.44913605732484
+"sub-1034"	"localiser"	"scene"	"Left"	"alERC"	82	0.809337134146341
+"sub-1034"	"localiser"	"scene"	"Left"	"pmERC"	69	-2.42451130434783
+"sub-1034"	"localiser"	"scene"	"Right"	"Ant Hipp Head"	62	1.62327874193548
+"sub-1034"	"localiser"	"scene"	"Right"	"CA1"	147	-3.11339393877551
+"sub-1034"	"localiser"	"scene"	"Right"	"CA23DG"	297	3.46308260942761
+"sub-1034"	"localiser"	"scene"	"Right"	"FFA"	808	11.5180342524752
+"sub-1034"	"localiser"	"scene"	"Right"	"Hipp Tail"	95	1.04750541052632
+"sub-1034"	"localiser"	"scene"	"Right"	"PHC"	683	10.0404358828697
+"sub-1034"	"localiser"	"scene"	"Right"	"PRC"	613	1.66326628874388
+"sub-1034"	"localiser"	"scene"	"Right"	"Sub"	194	1.67616290721649
+"sub-1034"	"localiser"	"scene"	"Right"	"alERC"	113	1.84825562831858
+"sub-1034"	"localiser"	"scene"	"Right"	"pmERC"	85	-0.0259958352941176

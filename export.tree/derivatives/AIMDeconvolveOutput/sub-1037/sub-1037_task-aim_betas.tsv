@@ -1,0 +1,321 @@
+"Participant"	"ExperimentPhase"	"Category"	"TestType"	"PairType"	"Accuracy"	"Hemisphere"	"Area"	"ROIGroup"	"ROISize"	"Beta"
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Right"	"Ant Hipp Head"	"HC"	102	-3.2166298627451
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Right"	"CA1"	"HC"	135	1.44028672592593
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Right"	"Sub"	"HC"	111	-3.93522474774775
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Right"	"CA23DG"	"HC"	197	2.57740766497462
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Right"	"Hipp Tail"	"HC"	68	-1.29558972058824
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Right"	"PHC"	"MTL"	344	0.20593611627907
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Right"	"alERC"	"MTL"	160	-4.01337630625
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Right"	"PRC"	"MTL"	703	1.79866183357041
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Right"	"pmERC"	"MTL"	75	-2.01586073333333
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Left"	"CA1"	"HC"	120	-1.081377125
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Left"	"Hipp Tail"	"HC"	47	0.813964829787234
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Left"	"Sub"	"HC"	154	1.4758489025974
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Left"	"CA23DG"	"HC"	194	10.7775672061856
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Left"	"PRC"	"MTL"	914	4.08809532056893
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Left"	"alERC"	"MTL"	149	1.57489854362416
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Left"	"PHC"	"MTL"	430	4.94553934418605
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Left"	"pmERC"	"MTL"	71	4.79229487323944
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Left"	"Ant Hipp Head"	"HC"	62	-6.40972833870968
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Right"	"FFA"	"LocCat"	319	46.456145630094
+"sub-1037"	"study"	"face"	"study"	"AB"	"Forgotten"	"Left"	"FFA"	"LocCat"	115	27.3819733043478
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Right"	"Ant Hipp Head"	"HC"	102	6.56730466666667
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Right"	"CA1"	"HC"	135	5.3316405037037
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Right"	"Sub"	"HC"	111	-6.80097279279279
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Right"	"CA23DG"	"HC"	197	2.02590316243655
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Right"	"Hipp Tail"	"HC"	68	1.1044545
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Right"	"PHC"	"MTL"	344	0.836090854651163
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Right"	"alERC"	"MTL"	160	-0.8577242125
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Right"	"PRC"	"MTL"	703	0.42914440113798
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Right"	"pmERC"	"MTL"	75	-1.1596606
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Left"	"CA1"	"HC"	120	-1.984234925
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Left"	"Hipp Tail"	"HC"	47	3.8710079787234
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Left"	"Sub"	"HC"	154	-4.74962254545455
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Left"	"CA23DG"	"HC"	194	8.19511409793814
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Left"	"PRC"	"MTL"	914	2.76978329978118
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Left"	"alERC"	"MTL"	149	4.22510400671141
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Left"	"PHC"	"MTL"	430	3.45472419767442
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Left"	"pmERC"	"MTL"	71	-1.35464461971831
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Left"	"Ant Hipp Head"	"HC"	62	-0.298641790322581
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Right"	"FFA"	"LocCat"	319	57.9288164137931
+"sub-1037"	"study"	"face"	"study"	"AB"	"Remembered"	"Left"	"FFA"	"LocCat"	115	32.3676130086956
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Right"	"Ant Hipp Head"	"HC"	102	-0.812444068627451
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Right"	"CA1"	"HC"	135	4.5732787037037
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Right"	"Sub"	"HC"	111	-6.04485718918919
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Right"	"CA23DG"	"HC"	197	-5.85649240609137
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Right"	"Hipp Tail"	"HC"	68	-7.00088505882353
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Right"	"PHC"	"MTL"	344	-0.228171531976744
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Right"	"alERC"	"MTL"	160	4.22667603125
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Right"	"PRC"	"MTL"	703	-0.222258213371266
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Right"	"pmERC"	"MTL"	75	2.06084448
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Left"	"CA1"	"HC"	120	0.1142973
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Left"	"Hipp Tail"	"HC"	47	-1.39956621276596
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Left"	"Sub"	"HC"	154	-3.02169017532468
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Left"	"CA23DG"	"HC"	194	-7.3584028814433
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Left"	"PRC"	"MTL"	914	-0.362426134573304
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Left"	"alERC"	"MTL"	149	0.919958060402684
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Left"	"PHC"	"MTL"	430	-1.41256948139535
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Left"	"pmERC"	"MTL"	71	-4.75680170422535
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Left"	"Ant Hipp Head"	"HC"	62	-4.23182443548387
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Right"	"FFA"	"LocCat"	319	-0.883851927899687
+"sub-1037"	"study"	"face"	"study"	"BC"	"Forgotten"	"Left"	"FFA"	"LocCat"	115	4.52494288695652
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Right"	"Ant Hipp Head"	"HC"	102	-0.329665637254902
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Right"	"CA1"	"HC"	135	2.52710108148148
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Right"	"Sub"	"HC"	111	-5.28771172972973
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Right"	"CA23DG"	"HC"	197	-3.68713440101523
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Right"	"Hipp Tail"	"HC"	68	-1.77516923529412
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Right"	"PHC"	"MTL"	344	3.41650727616279
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Right"	"alERC"	"MTL"	160	1.07344206875
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Right"	"PRC"	"MTL"	703	0.614313573257468
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Right"	"pmERC"	"MTL"	75	3.47329378666667
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Left"	"CA1"	"HC"	120	-1.48188958333333
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Left"	"Hipp Tail"	"HC"	47	-3.27639829787234
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Left"	"Sub"	"HC"	154	-4.88170904545455
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Left"	"CA23DG"	"HC"	194	-0.210227798969072
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Left"	"PRC"	"MTL"	914	0.844878099562363
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Left"	"alERC"	"MTL"	149	0.710031073825503
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Left"	"PHC"	"MTL"	430	2.19503510232558
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Left"	"pmERC"	"MTL"	71	-1.27627418309859
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Left"	"Ant Hipp Head"	"HC"	62	3.99687690322581
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Right"	"FFA"	"LocCat"	319	19.3035438714734
+"sub-1037"	"study"	"face"	"study"	"BC"	"Remembered"	"Left"	"FFA"	"LocCat"	115	16.2396048086957
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Right"	"Ant Hipp Head"	"HC"	102	5.43241149019608
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Right"	"CA1"	"HC"	135	1.12615737037037
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Right"	"Sub"	"HC"	111	0.406398468468469
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Right"	"CA23DG"	"HC"	197	2.07219539593909
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Right"	"Hipp Tail"	"HC"	68	1.43695469117647
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Right"	"PHC"	"MTL"	344	3.38237759302326
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Right"	"alERC"	"MTL"	160	5.36271410625
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Right"	"PRC"	"MTL"	703	2.87660855618777
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Right"	"pmERC"	"MTL"	75	8.35803188
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Left"	"CA1"	"HC"	120	-0.09511365
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Left"	"Hipp Tail"	"HC"	47	4.78622146808511
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Left"	"Sub"	"HC"	154	1.24766820779221
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Left"	"CA23DG"	"HC"	194	5.82119292268041
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Left"	"PRC"	"MTL"	914	3.95210133588621
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Left"	"alERC"	"MTL"	149	4.04770747651007
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Left"	"PHC"	"MTL"	430	4.69493363255814
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Left"	"pmERC"	"MTL"	71	2.7260086056338
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Left"	"Ant Hipp Head"	"HC"	62	-1.81392530645161
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Right"	"FFA"	"LocCat"	319	46.2530757554859
+"sub-1037"	"test"	"face"	"dir"	"test"	"Correct"	"Left"	"FFA"	"LocCat"	115	38.8044898173913
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Right"	"Ant Hipp Head"	"HC"	102	9.00526014705882
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Right"	"CA1"	"HC"	135	-4.36821965925926
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Right"	"Sub"	"HC"	111	-4.10644362162162
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Right"	"CA23DG"	"HC"	197	-13.0849884467005
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Right"	"Hipp Tail"	"HC"	68	7.50341247058824
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Right"	"PHC"	"MTL"	344	3.68654156686047
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Right"	"alERC"	"MTL"	160	1.06120044375
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Right"	"PRC"	"MTL"	703	3.09513555334282
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Right"	"pmERC"	"MTL"	75	7.06896389333333
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Left"	"CA1"	"HC"	120	1.29420474166667
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Left"	"Hipp Tail"	"HC"	47	6.90676323404255
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Left"	"Sub"	"HC"	154	-0.782804532467533
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Left"	"CA23DG"	"HC"	194	3.9447963556701
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Left"	"PRC"	"MTL"	914	2.02770778008753
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Left"	"alERC"	"MTL"	149	1.9719369261745
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Left"	"PHC"	"MTL"	430	7.50205275581395
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Left"	"pmERC"	"MTL"	71	12.9111876901408
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Left"	"Ant Hipp Head"	"HC"	62	1.41238270967742
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Right"	"FFA"	"LocCat"	319	55.6101525611285
+"sub-1037"	"test"	"face"	"dir"	"test"	"Incorrect"	"Left"	"FFA"	"LocCat"	115	34.3225599391304
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Right"	"Ant Hipp Head"	"HC"	102	-5.83939707843137
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Right"	"CA1"	"HC"	135	0.86638602962963
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Right"	"Sub"	"HC"	111	-12.8076444954955
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Right"	"CA23DG"	"HC"	197	-10.5599685939086
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Right"	"Hipp Tail"	"HC"	68	2.49897813235294
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Right"	"PHC"	"MTL"	344	3.48533543604651
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Right"	"alERC"	"MTL"	160	0.9759746875
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Right"	"PRC"	"MTL"	703	-1.5424916401138
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Right"	"pmERC"	"MTL"	75	1.08600777333333
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Left"	"CA1"	"HC"	120	-6.19358190833333
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Left"	"Hipp Tail"	"HC"	47	0.574272255319149
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Left"	"Sub"	"HC"	154	-2.76044526623377
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Left"	"CA23DG"	"HC"	194	-8.22158308247423
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Left"	"PRC"	"MTL"	914	2.70511832166302
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Left"	"alERC"	"MTL"	149	6.24543793288591
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Left"	"PHC"	"MTL"	430	2.80174820232558
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Left"	"pmERC"	"MTL"	71	-7.3069798028169
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Left"	"Ant Hipp Head"	"HC"	62	-4.9143185483871
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Right"	"FFA"	"LocCat"	319	11.8242878652038
+"sub-1037"	"test"	"face"	"indir"	"test"	"Correct"	"Left"	"FFA"	"LocCat"	115	16.3578091826087
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Right"	"Ant Hipp Head"	"HC"	102	-5.46796415686275
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Right"	"CA1"	"HC"	135	-5.47301174814815
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Right"	"Sub"	"HC"	111	-10.0893221891892
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Right"	"CA23DG"	"HC"	197	-18.062061106599
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Right"	"Hipp Tail"	"HC"	68	-0.896608602941177
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Right"	"PHC"	"MTL"	344	0.805657316860465
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Right"	"alERC"	"MTL"	160	1.53533824375
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Right"	"PRC"	"MTL"	703	-1.63449931863442
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Right"	"pmERC"	"MTL"	75	-3.07700818666667
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Left"	"CA1"	"HC"	120	-9.269265675
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Left"	"Hipp Tail"	"HC"	47	-8.44801044680851
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Left"	"Sub"	"HC"	154	-1.33845457792208
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Left"	"CA23DG"	"HC"	194	-17.9863542216495
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Left"	"PRC"	"MTL"	914	-0.0896511673960613
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Left"	"alERC"	"MTL"	149	4.29544775838926
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Left"	"PHC"	"MTL"	430	1.727325
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Left"	"pmERC"	"MTL"	71	-0.488730140845071
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Left"	"Ant Hipp Head"	"HC"	62	6.32978835483871
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Right"	"FFA"	"LocCat"	319	2.15831105956113
+"sub-1037"	"test"	"face"	"indir"	"test"	"Incorrect"	"Left"	"FFA"	"LocCat"	115	14.4191241043478
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Right"	"Ant Hipp Head"	"HC"	102	15.8507059411765
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Right"	"CA1"	"HC"	135	5.42158476296296
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Right"	"Sub"	"HC"	111	3.01291781081081
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Right"	"CA23DG"	"HC"	197	7.36190272081218
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Right"	"Hipp Tail"	"HC"	68	0.28137705882353
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Right"	"PHC"	"MTL"	344	23.7664146627907
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Right"	"alERC"	"MTL"	160	7.54921383125
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Right"	"PRC"	"MTL"	703	6.84251748364154
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Right"	"pmERC"	"MTL"	75	14.7045130133333
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Left"	"CA1"	"HC"	120	0.804955666666667
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Left"	"Hipp Tail"	"HC"	47	5.39934691489362
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Left"	"Sub"	"HC"	154	2.82233676623377
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Left"	"CA23DG"	"HC"	194	13.3118508814433
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Left"	"PRC"	"MTL"	914	4.49644921006565
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Left"	"alERC"	"MTL"	149	10.7813503288591
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Left"	"PHC"	"MTL"	430	19.7957317511628
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Left"	"pmERC"	"MTL"	71	11.7299062816901
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Left"	"Ant Hipp Head"	"HC"	62	9.80234817741935
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Right"	"FFA"	"LocCat"	319	37.776674846395
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Forgotten"	"Left"	"FFA"	"LocCat"	115	35.2899794956522
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Right"	"Ant Hipp Head"	"HC"	102	17.2276702156863
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Right"	"CA1"	"HC"	135	9.69912945925926
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Right"	"Sub"	"HC"	111	-0.886772036036036
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Right"	"CA23DG"	"HC"	197	7.56491507106599
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Right"	"Hipp Tail"	"HC"	68	5.04570738235294
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Right"	"PHC"	"MTL"	344	31.2041561540698
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Right"	"alERC"	"MTL"	160	9.24240645
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Right"	"PRC"	"MTL"	703	7.81531450782361
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Right"	"pmERC"	"MTL"	75	14.4559484533333
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Left"	"CA1"	"HC"	120	3.33704279166667
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Left"	"Hipp Tail"	"HC"	47	12.6257842765957
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Left"	"Sub"	"HC"	154	3.8430224025974
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Left"	"CA23DG"	"HC"	194	15.5589791340206
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Left"	"PRC"	"MTL"	914	6.35323734135667
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Left"	"alERC"	"MTL"	149	15.631320033557
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Left"	"PHC"	"MTL"	430	29.1170909488372
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Left"	"pmERC"	"MTL"	71	21.6661012676056
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Left"	"Ant Hipp Head"	"HC"	62	15.4711258064516
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Right"	"FFA"	"LocCat"	319	53.6366892664577
+"sub-1037"	"study"	"scene"	"study"	"AB"	"Remembered"	"Left"	"FFA"	"LocCat"	115	43.9214102869565
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Right"	"Ant Hipp Head"	"HC"	102	4.01771853921569
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Right"	"CA1"	"HC"	135	1.17071096296296
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Right"	"Sub"	"HC"	111	-0.788310387387388
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Right"	"CA23DG"	"HC"	197	-2.8226242893401
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Right"	"Hipp Tail"	"HC"	68	-0.357780088235294
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Right"	"PHC"	"MTL"	344	18.2387406947674
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Right"	"alERC"	"MTL"	160	3.9076018
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Right"	"PRC"	"MTL"	703	3.10754726031294
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Right"	"pmERC"	"MTL"	75	7.14068269333333
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Left"	"CA1"	"HC"	120	-3.03380415833333
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Left"	"Hipp Tail"	"HC"	47	-0.499206510638298
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Left"	"Sub"	"HC"	154	-4.30322614935065
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Left"	"CA23DG"	"HC"	194	3.07902405154639
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Left"	"PRC"	"MTL"	914	3.41232225820569
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Left"	"alERC"	"MTL"	149	8.77339705369127
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Left"	"PHC"	"MTL"	430	15.1150020604651
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Left"	"pmERC"	"MTL"	71	5.80472815492958
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Left"	"Ant Hipp Head"	"HC"	62	6.44545212903226
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Right"	"FFA"	"LocCat"	319	18.967761200627
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Forgotten"	"Left"	"FFA"	"LocCat"	115	20.6165876695652
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Right"	"Ant Hipp Head"	"HC"	102	-3.03748317647059
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Right"	"CA1"	"HC"	135	-0.993405888888889
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Right"	"Sub"	"HC"	111	-2.79425407207207
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Right"	"CA23DG"	"HC"	197	-7.43198079187817
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Right"	"Hipp Tail"	"HC"	68	-4.70541292647059
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Right"	"PHC"	"MTL"	344	15.6108824796512
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Right"	"alERC"	"MTL"	160	1.005635775
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Right"	"PRC"	"MTL"	703	-1.02979966002845
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Right"	"pmERC"	"MTL"	75	4.60107554666667
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Left"	"CA1"	"HC"	120	-5.56629310833333
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Left"	"Hipp Tail"	"HC"	47	-3.58205680851064
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Left"	"Sub"	"HC"	154	-1.63426111688312
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Left"	"CA23DG"	"HC"	194	-3.62795981443299
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Left"	"PRC"	"MTL"	914	1.90773018708972
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Left"	"alERC"	"MTL"	149	4.6996622885906
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Left"	"PHC"	"MTL"	430	14.1779350465116
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Left"	"pmERC"	"MTL"	71	4.65372977464789
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Left"	"Ant Hipp Head"	"HC"	62	1.6956804516129
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Right"	"FFA"	"LocCat"	319	9.4508333354232
+"sub-1037"	"study"	"scene"	"study"	"BC"	"Remembered"	"Left"	"FFA"	"LocCat"	115	10.2091326782609
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Right"	"Ant Hipp Head"	"HC"	102	-7.80275482352941
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Right"	"CA1"	"HC"	135	-2.96853148888889
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Right"	"Sub"	"HC"	111	-3.45023489189189
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Right"	"CA23DG"	"HC"	197	-7.88902102030457
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Right"	"Hipp Tail"	"HC"	68	-6.43149180882353
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Right"	"PHC"	"MTL"	344	17.1708098895349
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Right"	"alERC"	"MTL"	160	1.6231032875
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Right"	"PRC"	"MTL"	703	-0.641225098150782
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Right"	"pmERC"	"MTL"	75	5.0644224
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Left"	"CA1"	"HC"	120	-4.33859874166667
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Left"	"Hipp Tail"	"HC"	47	-2.52689808510638
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Left"	"Sub"	"HC"	154	-5.56452323376623
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Left"	"CA23DG"	"HC"	194	-6.38635378865979
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Left"	"PRC"	"MTL"	914	-1.89465972866521
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Left"	"alERC"	"MTL"	149	1.62012890604027
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Left"	"PHC"	"MTL"	430	9.66603738139535
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Left"	"pmERC"	"MTL"	71	7.9195235915493
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Left"	"Ant Hipp Head"	"HC"	62	-4.26665511290323
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Right"	"FFA"	"LocCat"	319	-9.44494926959248
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Correct"	"Left"	"FFA"	"LocCat"	115	1.46755204347826
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Right"	"Ant Hipp Head"	"HC"	102	-4.55851404901961
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Right"	"CA1"	"HC"	135	-4.25180677777778
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Right"	"Sub"	"HC"	111	-3.06190667567568
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Right"	"CA23DG"	"HC"	197	-9.33018599492386
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Right"	"Hipp Tail"	"HC"	68	4.07656410294118
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Right"	"PHC"	"MTL"	344	25.952482630814
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Right"	"alERC"	"MTL"	160	6.12526585625
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Right"	"PRC"	"MTL"	703	-1.14038046514936
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Right"	"pmERC"	"MTL"	75	5.82431498666667
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Left"	"CA1"	"HC"	120	-1.74940789166667
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Left"	"Hipp Tail"	"HC"	47	0.435343680851064
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Left"	"Sub"	"HC"	154	-1.73061209090909
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Left"	"CA23DG"	"HC"	194	-0.616615010309278
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Left"	"PRC"	"MTL"	914	0.549845358862144
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Left"	"alERC"	"MTL"	149	9.17242225503356
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Left"	"PHC"	"MTL"	430	15.9441472860465
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Left"	"pmERC"	"MTL"	71	12.2926317887324
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Left"	"Ant Hipp Head"	"HC"	62	0.283636467741935
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Right"	"FFA"	"LocCat"	319	-12.0021898808777
+"sub-1037"	"test"	"scene"	"dir"	"test"	"Incorrect"	"Left"	"FFA"	"LocCat"	115	-8.27900600869565
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Right"	"Ant Hipp Head"	"HC"	102	-12.8385771372549
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Right"	"CA1"	"HC"	135	-8.54303374074074
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Right"	"Sub"	"HC"	111	-17.8424192882883
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Right"	"CA23DG"	"HC"	197	-23.6153538020305
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Right"	"Hipp Tail"	"HC"	68	-5.71543741176471
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Right"	"PHC"	"MTL"	344	-0.22076799127907
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Right"	"alERC"	"MTL"	160	-3.6188607375
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Right"	"PRC"	"MTL"	703	-0.484712590327169
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Right"	"pmERC"	"MTL"	75	-1.637725
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Left"	"CA1"	"HC"	120	-6.99641544166667
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Left"	"Hipp Tail"	"HC"	47	-7.56706368085106
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Left"	"Sub"	"HC"	154	-11.2797099350649
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Left"	"CA23DG"	"HC"	194	-17.034330257732
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Left"	"PRC"	"MTL"	914	-4.83896854704595
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Left"	"alERC"	"MTL"	149	-2.39908568456376
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Left"	"PHC"	"MTL"	430	2.64023852790698
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Left"	"pmERC"	"MTL"	71	-4.39761183098592
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Left"	"Ant Hipp Head"	"HC"	62	-2.20068629032258
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Right"	"FFA"	"LocCat"	319	-27.7433223855799
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Correct"	"Left"	"FFA"	"LocCat"	115	-2.71166879130435
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Right"	"Ant Hipp Head"	"HC"	102	-13.4573813823529
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Right"	"CA1"	"HC"	135	-6.13004041481481
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Right"	"Sub"	"HC"	111	-8.9143741981982
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Right"	"CA23DG"	"HC"	197	-14.6178075837563
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Right"	"Hipp Tail"	"HC"	68	0.307837279411765
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Right"	"PHC"	"MTL"	344	2.90704115697674
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Right"	"alERC"	"MTL"	160	4.04279516875
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Right"	"PRC"	"MTL"	703	2.16489684921764
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Right"	"pmERC"	"MTL"	75	2.19252589333333
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Left"	"CA1"	"HC"	120	-5.703369075
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Left"	"Hipp Tail"	"HC"	47	-6.33739736170213
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Left"	"Sub"	"HC"	154	-11.2889014675325
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Left"	"CA23DG"	"HC"	194	-21.3181222319588
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Left"	"PRC"	"MTL"	914	-2.20278062910284
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Left"	"alERC"	"MTL"	149	2.67742359731544
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Left"	"PHC"	"MTL"	430	2.9929794744186
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Left"	"pmERC"	"MTL"	71	-11.0053206338028
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Left"	"Ant Hipp Head"	"HC"	62	-10.8605599516129
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Right"	"FFA"	"LocCat"	319	-16.417454169279
+"sub-1037"	"test"	"scene"	"indir"	"test"	"Incorrect"	"Left"	"FFA"	"LocCat"	115	3.85959544347826

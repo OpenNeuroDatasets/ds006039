@@ -1,0 +1,61 @@
+"Participant"	"ExperimentPhase"	"Category"	"Hemisphere"	"Area"	"ROISize"	"Beta"
+"sub-1029"	"localiser"	"face"	"Left"	"Ant Hipp Head"	64	1.285751265625
+"sub-1029"	"localiser"	"face"	"Left"	"CA1"	95	0.257104421052632
+"sub-1029"	"localiser"	"face"	"Left"	"CA23DG"	176	-1.62876469318182
+"sub-1029"	"localiser"	"face"	"Left"	"FFA"	61	52.0849555573771
+"sub-1029"	"localiser"	"face"	"Left"	"Hipp Tail"	124	-2.35462558870968
+"sub-1029"	"localiser"	"face"	"Left"	"PHC"	461	-4.81360911279826
+"sub-1029"	"localiser"	"face"	"Left"	"PRC"	397	-0.755925380352645
+"sub-1029"	"localiser"	"face"	"Left"	"Sub"	107	1.10356230841121
+"sub-1029"	"localiser"	"face"	"Left"	"alERC"	125	-2.425100008
+"sub-1029"	"localiser"	"face"	"Left"	"pmERC"	91	-1.60904164835165
+"sub-1029"	"localiser"	"face"	"Right"	"Ant Hipp Head"	49	0.803226102040816
+"sub-1029"	"localiser"	"face"	"Right"	"CA1"	123	-3.15038432520325
+"sub-1029"	"localiser"	"face"	"Right"	"CA23DG"	173	-2.06743601156069
+"sub-1029"	"localiser"	"face"	"Right"	"FFA"	467	60.4790453297645
+"sub-1029"	"localiser"	"face"	"Right"	"Hipp Tail"	93	-2.06074696774194
+"sub-1029"	"localiser"	"face"	"Right"	"PHC"	439	-1.33038777904328
+"sub-1029"	"localiser"	"face"	"Right"	"PRC"	356	4.14449657303371
+"sub-1029"	"localiser"	"face"	"Right"	"Sub"	98	-0.574525785714286
+"sub-1029"	"localiser"	"face"	"Right"	"alERC"	164	0.170634182926829
+"sub-1029"	"localiser"	"face"	"Right"	"pmERC"	107	-1.616093
+"sub-1029"	"localiser"	"obj"	"Left"	"Ant Hipp Head"	64	-1.55394928125
+"sub-1029"	"localiser"	"obj"	"Left"	"CA1"	95	1.96804469473684
+"sub-1029"	"localiser"	"obj"	"Left"	"CA23DG"	176	-0.937408346590909
+"sub-1029"	"localiser"	"obj"	"Left"	"FFA"	61	8.2237998852459
+"sub-1029"	"localiser"	"obj"	"Left"	"Hipp Tail"	124	0.223860798387097
+"sub-1029"	"localiser"	"obj"	"Left"	"PHC"	461	5.34671505856833
+"sub-1029"	"localiser"	"obj"	"Left"	"PRC"	397	1.15555188161209
+"sub-1029"	"localiser"	"obj"	"Left"	"Sub"	107	1.91776457943925
+"sub-1029"	"localiser"	"obj"	"Left"	"alERC"	125	1.92388464
+"sub-1029"	"localiser"	"obj"	"Left"	"pmERC"	91	-0.684479571428571
+"sub-1029"	"localiser"	"obj"	"Right"	"Ant Hipp Head"	49	1.25464489795918
+"sub-1029"	"localiser"	"obj"	"Right"	"CA1"	123	-0.852432739837398
+"sub-1029"	"localiser"	"obj"	"Right"	"CA23DG"	173	-2.5759656300578
+"sub-1029"	"localiser"	"obj"	"Right"	"FFA"	467	21.5052228051392
+"sub-1029"	"localiser"	"obj"	"Right"	"Hipp Tail"	93	-1.26118789247312
+"sub-1029"	"localiser"	"obj"	"Right"	"PHC"	439	3.60301378359909
+"sub-1029"	"localiser"	"obj"	"Right"	"PRC"	356	7.05897960674157
+"sub-1029"	"localiser"	"obj"	"Right"	"Sub"	98	0.617607653061224
+"sub-1029"	"localiser"	"obj"	"Right"	"alERC"	164	2.62623043292683
+"sub-1029"	"localiser"	"obj"	"Right"	"pmERC"	107	3.82240619626168
+"sub-1029"	"localiser"	"scene"	"Left"	"Ant Hipp Head"	64	0.92971878125
+"sub-1029"	"localiser"	"scene"	"Left"	"CA1"	95	1.81912650526316
+"sub-1029"	"localiser"	"scene"	"Left"	"CA23DG"	176	2.42449453977273
+"sub-1029"	"localiser"	"scene"	"Left"	"FFA"	61	-0.881895967213115
+"sub-1029"	"localiser"	"scene"	"Left"	"Hipp Tail"	124	0.562349766129032
+"sub-1029"	"localiser"	"scene"	"Left"	"PHC"	461	15.0297057678959
+"sub-1029"	"localiser"	"scene"	"Left"	"PRC"	397	1.12049920403023
+"sub-1029"	"localiser"	"scene"	"Left"	"Sub"	107	2.3394495046729
+"sub-1029"	"localiser"	"scene"	"Left"	"alERC"	125	1.478476352
+"sub-1029"	"localiser"	"scene"	"Left"	"pmERC"	91	4.01715159340659
+"sub-1029"	"localiser"	"scene"	"Right"	"Ant Hipp Head"	49	6.93000555102041
+"sub-1029"	"localiser"	"scene"	"Right"	"CA1"	123	-0.277301349593496
+"sub-1029"	"localiser"	"scene"	"Right"	"CA23DG"	173	1.56235366473988
+"sub-1029"	"localiser"	"scene"	"Right"	"FFA"	467	7.53973841970021
+"sub-1029"	"localiser"	"scene"	"Right"	"Hipp Tail"	93	-1.02194008602151
+"sub-1029"	"localiser"	"scene"	"Right"	"PHC"	439	17.4591591002278
+"sub-1029"	"localiser"	"scene"	"Right"	"PRC"	356	6.66941223595506
+"sub-1029"	"localiser"	"scene"	"Right"	"Sub"	98	-0.660142387755102
+"sub-1029"	"localiser"	"scene"	"Right"	"alERC"	164	8.62125594512195
+"sub-1029"	"localiser"	"scene"	"Right"	"pmERC"	107	10.492609682243
